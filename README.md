@@ -56,7 +56,7 @@ pip install transformers scikit-learn xgboost matplotlib pandas tqdm py-feat "sc
 
 ## Notebook Execution Order
 
-All notebooks are located in `jupyter-notebooks/`. Run them in the following order:
+All notebooks are located in `jupyter-notebooks/`, In all notebooks, remember to change the directory variables . Run them in the following order:
 
 ### Phase 1: Data Exploration
 
